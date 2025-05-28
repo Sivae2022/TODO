@@ -59,6 +59,9 @@ Technologies used in the project:
 *   ExpressJS
 *   Tailwind CSS
 
+**architecture Diagram**
+![image](https://github.com/user-attachments/assets/58bc600a-fe4a-4fe1-85fd-b17283be7602)
+
 
 <h2>Project Screenshots:</h2>
 
