@@ -1,5 +1,7 @@
 <h1 align="center" id="title">TODO</h1>
 
+<h1>This project is a part of hackthon run by http://www.katamaron.com</h1>
+
 <p id="description">Todo app Build using MERN Stack. Allowing to Creating Todo list, Update and Delete Todo list within app.</p>
 
   
