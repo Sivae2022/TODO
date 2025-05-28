@@ -88,7 +88,9 @@ Technologies used in the project:
 
 
  **Loom video**
+## 📽️ Demo Video
 
-[![Watch the demo](![image](https://github.com/user-attachments/assets/070fa329-cf4d-4ed2-9140-d9c02f9cd688)
-)](https://drive.google.com/file/d/132A4Ghb2_w9Lhqe6Z5r_X8zIlRXiYI_y/view?usp=drive_link)
+[![Watch the demo](![Screenshot 2025-05-28 221836](https://github.com/user-attachments/assets/b8efab0b-3094-40e4-98c7-6a5514d41331)](https://drive.google.com/file/d/132A4Ghb2_w9Lhqe6Z5r_X8zIlRXiYI_y/view?usp=drive_link)
+
+
 
