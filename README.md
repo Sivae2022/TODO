@@ -60,7 +60,8 @@ Technologies used in the project:
 *   Tailwind CSS
 
 **architecture Diagram**
-![image](https://github.com/user-attachments/assets/58bc600a-fe4a-4fe1-85fd-b17283be7602)
+![image](https://github.com/user-attachments/assets/6558f01f-5608-4003-bef6-b14ebf15c712)
+
 
 
 <h2>Project Screenshots:</h2>
