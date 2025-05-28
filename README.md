@@ -81,3 +81,10 @@ Technologies used in the project:
 5. No data 
 
 <img src="https://github.com/akashpawar43/Todo/blob/master/client/src/assets/noData.png" alt="project-screenshot" >
+
+
+ **Loom video**
+
+[![Watch the demo](![image](https://github.com/user-attachments/assets/070fa329-cf4d-4ed2-9140-d9c02f9cd688)
+)](https://drive.google.com/file/d/132A4Ghb2_w9Lhqe6Z5r_X8zIlRXiYI_y/view?usp=drive_link)
+
